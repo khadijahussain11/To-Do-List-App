@@ -3,6 +3,9 @@
 A simple and intuitive **To-Do List mobile application** built with **Flutter** and **Dart** using **Android Studio**.  
 This app allows users to create, manage, and organize their daily tasks efficiently with a clean and responsive UI.
 
+Demo:
+https://github.com/khadijahussain11/To-Do-List-App/blob/main/To-do-list-app.mkv
+
 ---
 
 ## 🚀 Features
